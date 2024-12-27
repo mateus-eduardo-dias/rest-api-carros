@@ -1,0 +1,16 @@
+{
+  "name": "teste-nodejs-sql",
+  "version": "1.0.0",
+  "description": "Teste de NodeJS com PostgreSql",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "nodemon init"
+  },
+  "author": "Mateus",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mysql": "^2.18.1"
+  }
+}
